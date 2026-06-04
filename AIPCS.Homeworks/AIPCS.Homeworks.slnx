@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="HW1.LevenshteinDist/HW1.LevenshteinDist.csproj" />
   <Project Path="HW2.Airlines/HW2.Airlines.csproj" />
+  <Project Path="HW3.Airlines/HW3.Airlines.csproj" />
 </Solution>
